@@ -1,0 +1,30 @@
+body {
+    background-color: blueviolet;
+}
+
+.background {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-image: url('./cute-little-red-kitten.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 40px;
+    color: black;
+}
