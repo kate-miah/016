@@ -1,8 +1,37 @@
-p {
-    margin: 2% 3% 1% 3%;
+table {
+    border: none;
+    background-color:  rgba(0, 193, 184, 1);
+    color: white;
+    border-collapse: collapse;
 }
-.item {
-    list-style-type: disc;
-    list-style-image: url('./bicycle_bike.png');
-    margin-left: 40px;
+
+caption {
+    background-color: inherit;
+    padding: 20px 0;
+    font-size: 1.5em;
+    text-transform: uppercase;
+
 }
+
+thead {
+    text-transform: capitalize;
+    background-color: rgb(50, 215, 205);
+}
+.head {
+    padding: 20px 35px;
+}
+tbody {
+
+}
+
+tr {
+    
+}
+
+td {
+    border: none;
+    padding: 10px 35px;
+    font-size: 0.8em;
+
+}
+
